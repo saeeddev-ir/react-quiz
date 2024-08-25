@@ -12,10 +12,15 @@
   -------------------------------------
   ## Some of the significant features of this project: 
   📌 created by Vite and React
+  
   📌 create a json file and put all questions in a seprate folder
+  
   📌 useReducer / useEffect hooks
+  
   📌 Fake API (having a json-server on localhost port 8000
+  
   📌 categorize the componets(import & export all components in a seprate file [import-export.js]
+  
 
 ![p16](https://github.com/user-attachments/assets/f019bfc2-5876-42c3-9319-a7bb51605bd9)
 
